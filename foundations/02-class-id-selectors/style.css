@@ -1,0 +1,19 @@
+.odd {
+    background-color: rgb(236, 100, 146);
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+.cooler{
+    font-size: 24px;
+}
+
+#test {
+    color: rgb(58, 110, 255);
+    font-size: 36px;
+}
+
+#test-id-two {
+    background-color: rgb(95, 233, 141);
+    font-size: 24px;
+    font-weight: bold;
+}
